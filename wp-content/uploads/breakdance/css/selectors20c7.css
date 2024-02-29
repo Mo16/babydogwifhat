@@ -1,0 +1,50 @@
+.breakdance .audio-control {
+    ::-webkit-media-controls-enclosure {
+        background-color: #fbf7f4;
+        width: 100%;
+    }
+}
+
+
+.ee-video-container {
+    display: flex;
+}
+
+.ee-video-container img {
+    margin: auto;
+    width: 20%;
+}
+
+.imgcontainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.imgcontainer img {
+    margin: auto;
+    width: 100% !important;
+}
+
+.topcontainer{
+
+}
+
+.topcontainer img {
+    margin: auto;
+    width: 20% !important;
+}
+
+.textbox img {
+    width: 10%;
+    height: 10%;
+    align-items: center;
+    justify-content: center;
+}
+
+.textbox{ 
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+}
